@@ -1,4 +1,4 @@
-# Track: Data Literacy
+# Track: Data Literacy, upskilling from Excel
 The course will equip you with the theoretical knowledge, practical skills and technical know-how to make good decisions using data.
 
 ## Course 1: Open data & innovation
