@@ -18,4 +18,3 @@ This course will guide you through the process of extracting value from data, to
 
 ## Course 6: Visualising and communicating data
 This course will equip you with the skills to visualise and communicate the data you need for your pitch.
-# CourseOutline.md
